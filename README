@@ -1,0 +1,13 @@
+# slackbuild for fcitx-qt5
+
+fcitx support for qt5
+
+## usage
+
+```
+wget https://github.com/fcitx/fcitx-qt5/archive/1.0.5.tar.gz
+git clone https://github.com/slackwarecn/fcitx-qt5-slackbuild
+cd fcitx-qt5-slackbuild
+ln -s ../1.0.5.tar.gz .
+sudo sh fcitx-qt5.SlackBuild
+```

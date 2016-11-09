@@ -2,6 +2,11 @@
 
 fcitx support for qt5
 
+## dependencies
+
+* [extra-cmake-modules](https://github.com/slackwarecn-slackbuilds/extra-cmake-modules)
+* [fcitx](https://slackbuilds.org/repository/14.2/misc/fcitx/)
+
 ## usage
 
 ```
